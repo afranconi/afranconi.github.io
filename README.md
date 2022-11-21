@@ -20,7 +20,7 @@
       <div id="header">
         <nav>
           <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            <li class="fork"><a href="{{ [site.github.repository_url](https://github.com/afranconi/afranconi.github.io/blob/2c9556242b34321b08df7636c3ee8658be4b9546/MP_Franconi_Rella_2022.pdf) }}"> Monetary Policy, Asset Prices, and the Distribution of Wealth in the US</a></li>
             {% if site.show_downloads %}
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
               <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
