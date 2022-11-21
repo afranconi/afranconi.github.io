@@ -42,8 +42,6 @@
         {{ content }}
 
       </section>
-[CV_FRANCONI.pdf](https://github.com/afranconi/afranconi.github.io/files/10056294/CV_FRANCONI.pdf)
-[MP_Franconi_Rella_2022.pdf](https://github.com/afranconi/afranconi.github.io/files/10056296/MP_Franconi_Rella_2022.pdf)
 
     </div>
   </body>
